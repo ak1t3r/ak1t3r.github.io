@@ -1,0 +1,10 @@
+html {
+  cursor: url("./101.png") 2 2, auto;
+}
+
+a {
+  text-decoration: none;
+  color: var(--text-color);
+  cursor: url("./202.png") 2 2, auto;
+
+  
