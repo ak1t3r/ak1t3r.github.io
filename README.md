@@ -1,4 +1,4 @@
-# ak1t3r.github.io
+# ak1t3r
 Сайт визитка HTML, CSS
 
 <div align="center">
