@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/ak1t3r/ak1t3r.github.io/blob/main/all/web/qa/vecteezy_cherry-blossom-flower-blooming-png-pink-sakura-flower_22952601.png?raw=true" width="25%" align="right" />
-<img src="https://github.com/ak1t3r/ak1t3r.github.io/blob/main/all/web/qa/vecteezy_cherry-blossom-branch-with-blooming-sakura-png-realistic_22993699.png?raw=true" width="25%" />
+<img src="https://github.com/ak1t3r/ak1t3r.github.io/blob/main/all/web/qa/vecteezy_cherry-blossom-branch-with-blooming-sakura-png-realistic_22993699.png?raw=true" width="25%" align="left" />
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
